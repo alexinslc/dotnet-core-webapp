@@ -25,5 +25,5 @@ steps:
   inputs:
     azureSubscription: 'RMPM'
     WebAppName: 'aspnetcoreapp1'
-    Package: $(System.ArtifactsDirectory)/**/*.zip
+    Package: $(Build.ArtifactStagingDirectory)/**/*.zip
 

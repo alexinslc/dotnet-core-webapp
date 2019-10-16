@@ -1,4 +1,4 @@
-name: ASP.NET Core App deploy to Azure
+name: ASP.NET Core app deploy to Azure
 
 on: [push,pull_request]
 

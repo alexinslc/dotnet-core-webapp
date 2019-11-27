@@ -1,4 +1,8 @@
-Deploying to https://ghatestappsb3.azurewebsites.net
+Dot net core
+Web app
+Azure SPN
+
+Deploying to https://ghatestappsb2.azurewebsites.net
 
 # Sample ASP.NET Core application for GitHub Actions
 

@@ -1,5 +1,7 @@
 Dot net core
+
 Web app
+
 Azure SPN
 
 Deploying to https://ghatestappsb2.azurewebsites.net
